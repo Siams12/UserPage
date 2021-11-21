@@ -1,0 +1,9 @@
+<html>
+<head>
+<ul>
+  <li><a href="http://localhost/MovieSite/Home.php">Home</a></li>
+  <li><a href="http://localhost/MovieSite/Login.php">Login</a></li>
+  <li><a href="http://localhost/MovieSite/Registration.php">Register</a></li>
+  <li><a href="http://localhost/MovieSite/Search.php">Search</a></li>
+</head>
+<html>
